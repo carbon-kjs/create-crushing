@@ -1,0 +1,8 @@
+{
+  "name": "create-crushing",
+  "version": "1.0.0",
+  "author": "Malezja",
+  "minecraftVersion": "1.19.2",
+  "description": "Package that adds create crushing recipes. Requires `KubeJS Create`.",
+  "modloaders": ["forge", "fabric"]
+}
